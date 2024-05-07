@@ -56,7 +56,7 @@ In summary, launching an on-demand multi-service platform using our Gojek clone 
 
 Adopting our[ Gojek clone](https://migrateshop.com/gojek-clone/) is a strategic investment that positions your startup for long-term success in the dynamic on-demand service industry. By offering a comprehensive solution that meets the evolving needs of today's consumers, you can differentiate yourself from the competition and build a loyal customer base. Harness the full potential of the on-demand economy with our Gojek clone and propel your startup to new heights of growth and profitability.
 
-Explore - https://migrateshop.com/gojek-clone/ 
+Get Our **LIVE DEMO** - https://migrateshop.com/gojek-clone/ 
 
 **Get In Touch With Us:**
 
