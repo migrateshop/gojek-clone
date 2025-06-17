@@ -147,8 +147,6 @@ Take your [Gojek Clone](https://migrateshop.com/gojek-clone/) to the next level 
 These features allow you to tailor your app to your audience and gain a competitive edge.
 
 ---
-<div class="Box-sc-g0xbh4-0 iIZCet"><img alt=“gojrekclone.png" src="https://github.com/migrateshop/gojek-clone/blob/main/images/gojek-clone-script.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></div> 
-
 
 ## 🛒 Multiple Business Models Supported
 
